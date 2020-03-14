@@ -8,7 +8,7 @@ body {
     position: relative;
     height: 400px;
     width: 90%;
-    border: 2px solid red;
+    border: 2px solid blue;
     background-color: aliceblue;
     margin-left: 4%;
     overflow: hidden;
@@ -29,7 +29,7 @@ body {
     position: absolute;
     height: 130px;
     width: 50px;
-    background-color: red;
+    background-color: blue;
     right: -50px;
 }
 
@@ -51,7 +51,7 @@ body {
     top: 0;
     width: 100%;
     padding: 20px;
-    background-color: fuchsia;
+    background-color: black;
     color: white;
     font-size: 35px;
     border: none;
