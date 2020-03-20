@@ -17,8 +17,8 @@ body {
 #bird {
     position: absolute;
     background: url('bird1.png');
-    height: 62px;
-    width: 75px;
+    height: 52px;
+    width: 65px;
     background-size: contain;
     background-repeat: no-repeat;
     top: 20%;
